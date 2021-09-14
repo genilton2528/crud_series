@@ -8,7 +8,7 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "/home/genilton/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "/home/genilton/Área de Trabalho/DIO.Series/DIO.Series.csproj",
       "projectName": "DIO.Series",
       "projectPath": "/home/genilton/Área de Trabalho/DIO.Series/DIO.Series.csproj",
-      "packagesPath": "/root/.nuget/packages/",
+      "packagesPath": "/home/genilton/.nuget/packages/",
       "outputPath": "/home/genilton/Área de Trabalho/DIO.Series/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/home/genilton/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

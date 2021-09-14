@@ -6,7 +6,9 @@ namespace DIO.Series
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Serie serie = new Serie( 1, Genero.Comedia, "The good place", "string descricao", 2010);
+            Console.WriteLine(serie.Titulo);
+            
         }
     }
 }
