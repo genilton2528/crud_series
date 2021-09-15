@@ -10,11 +10,11 @@
         "projectUniqueName": "/home/genilton/Área de Trabalho/DIO.Series/DIO.Series.csproj",
         "projectName": "DIO.Series",
         "projectPath": "/home/genilton/Área de Trabalho/DIO.Series/DIO.Series.csproj",
-        "packagesPath": "/root/.nuget/packages/",
+        "packagesPath": "/home/genilton/.nuget/packages/",
         "outputPath": "/home/genilton/Área de Trabalho/DIO.Series/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/genilton/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/137/sdk/5.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }
