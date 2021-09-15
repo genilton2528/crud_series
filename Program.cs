@@ -8,9 +8,39 @@ namespace DIO.Series
     {
         static void Main(string[] args)
         {
-            Serie serie = new Serie( 1, Genero.Comedia, "The good place", "string descricao", 2010);
-            Console.WriteLine(serie.ReturnTitulo());
-            
+            string opcao = ObterOpcaoUsuario();
+
+            while (opcao.ToUpper() != "X")
+            {
+                switch (opcao)
+                {
+                    case "1":
+                        //ListarSeries();
+                        break;
+                    case "2":
+                        //InserirSerie();
+                        break;
+                    case "3":
+                        //AtualizarSerie();
+                        break;
+                    case "4":
+                        //ExcluirSerie();
+                        break;
+                    case "5":
+                        //VisualizarSerie();
+                        break;
+                    case "C":
+                        Console.Clear();
+                        break;
+
+                    default:
+                        throw new ArgumentOutOfRangeException();
+                }
+                opcao = ObterOpcaoUsuario();
+            }
+
+            Console.WriteLine("Obrigado por utilizar nossos serviços.");
+            Console.ReadLine();
         }
         
         private static string ObterOpcaoUsuario()
