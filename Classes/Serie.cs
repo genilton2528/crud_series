@@ -1,5 +1,5 @@
 using System;
-using DIO.Series.Enum;
+using DIO.Series.Enums;
 
 namespace DIO.Series.Classes
 {
@@ -21,9 +21,19 @@ namespace DIO.Series.Classes
             Excluido = false;
         }
         
+        public int ReturnId()
+        {
+            return Id;
+        }
+        
         public string ReturnTitulo()
         {
             return Titulo;
+        }
+        
+        public bool ReturnExcluido()
+        {
+            return Excluido;
         }
 
         public void Excluir()
@@ -31,6 +41,8 @@ namespace DIO.Series.Classes
             Excluido = true;
         }
 
+        
+        
         public override string ToString()
 		{
             var retorno = "";
