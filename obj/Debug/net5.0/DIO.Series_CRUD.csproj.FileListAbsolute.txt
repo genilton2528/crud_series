@@ -1,0 +1,16 @@
+/home/genilton/Área de Trabalho/DIO.Series_CRUD/bin/Debug/net5.0/DIO.Series_CRUD
+/home/genilton/Área de Trabalho/DIO.Series_CRUD/bin/Debug/net5.0/DIO.Series_CRUD.deps.json
+/home/genilton/Área de Trabalho/DIO.Series_CRUD/bin/Debug/net5.0/DIO.Series_CRUD.runtimeconfig.json
+/home/genilton/Área de Trabalho/DIO.Series_CRUD/bin/Debug/net5.0/DIO.Series_CRUD.runtimeconfig.dev.json
+/home/genilton/Área de Trabalho/DIO.Series_CRUD/bin/Debug/net5.0/DIO.Series_CRUD.dll
+/home/genilton/Área de Trabalho/DIO.Series_CRUD/bin/Debug/net5.0/ref/DIO.Series_CRUD.dll
+/home/genilton/Área de Trabalho/DIO.Series_CRUD/bin/Debug/net5.0/DIO.Series_CRUD.pdb
+/home/genilton/Área de Trabalho/DIO.Series_CRUD/obj/Debug/net5.0/DIO.Series_CRUD.csproj.AssemblyReference.cache
+/home/genilton/Área de Trabalho/DIO.Series_CRUD/obj/Debug/net5.0/DIO.Series_CRUD.GeneratedMSBuildEditorConfig.editorconfig
+/home/genilton/Área de Trabalho/DIO.Series_CRUD/obj/Debug/net5.0/DIO.Series_CRUD.AssemblyInfoInputs.cache
+/home/genilton/Área de Trabalho/DIO.Series_CRUD/obj/Debug/net5.0/DIO.Series_CRUD.AssemblyInfo.cs
+/home/genilton/Área de Trabalho/DIO.Series_CRUD/obj/Debug/net5.0/DIO.Series_CRUD.csproj.CoreCompileInputs.cache
+/home/genilton/Área de Trabalho/DIO.Series_CRUD/obj/Debug/net5.0/DIO.Series_CRUD.dll
+/home/genilton/Área de Trabalho/DIO.Series_CRUD/obj/Debug/net5.0/ref/DIO.Series_CRUD.dll
+/home/genilton/Área de Trabalho/DIO.Series_CRUD/obj/Debug/net5.0/DIO.Series_CRUD.pdb
+/home/genilton/Área de Trabalho/DIO.Series_CRUD/obj/Debug/net5.0/DIO.Series_CRUD.genruntimeconfig.cache

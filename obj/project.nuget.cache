@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "INnm7Y7syY8uNXtD1r91MDGndAJ4l3XZb9pvGJN+gjjHkfzqzGR9S9Iui26gikpDq+lw2Czs7lN5rFsgvmb3jQ==",
+  "dgSpecHash": "y+pGpIVsbnftTfxPfJDHStB09apMp7tjR33GVqxgLcJCIiyTY5G5vKWaehkChhpn5JGZ8GP9jcGX0XifSmMY3g==",
   "success": true,
-  "projectFilePath": "/home/genilton/Área de Trabalho/DIO.Series/DIO.Series.csproj",
+  "projectFilePath": "/home/genilton/Área de Trabalho/DIO.Series_CRUD/DIO.Series_CRUD.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

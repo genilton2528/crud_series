@@ -1,6 +1,7 @@
 using System;
+using DIO.Series.Enum;
 
-namespace DIO.Series
+namespace DIO.Series.Classes
 {
     public class Serie : EntidadeBase
     {
