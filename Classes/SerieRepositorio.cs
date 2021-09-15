@@ -5,34 +5,35 @@ namespace DIO.Series.Classes
 {
     public class SerieRepositorio : IRepositorio<Serie>
     {
+        private List<Serie> _listSeries = new List<Serie>();
         public List<Serie> Lista()
         {
-            throw new System.NotImplementedException();
+            return _listSeries;
         }
 
         public Serie RetornaPorId(int id)
         {
-            throw new System.NotImplementedException();
+            return _listSeries[id];
         }
 
         public void Insere(Serie entidade)
         {
-            throw new System.NotImplementedException();
+            _listSeries.Add(entidade);
         }
 
         public void Exclui(int id)
         {
-            throw new System.NotImplementedException();
+            _listSeries[id].Excluir();
         }
 
         public void Atualiza(int id, Serie entidade)
         {
-            throw new System.NotImplementedException();
+            _listSeries[id] = entidade;
         }
 
         public int ProximoId()
         {
-            throw new System.NotImplementedException();
+            return _listSeries.Count;
         }
     }
 }
