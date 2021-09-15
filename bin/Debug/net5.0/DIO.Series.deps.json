@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "DIO.Series_CRUD/1.0.0": {
+      "DIO.Series/1.0.0": {
         "runtime": {
-          "DIO.Series_CRUD.dll": {}
+          "DIO.Series.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "DIO.Series_CRUD/1.0.0": {
+    "DIO.Series/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

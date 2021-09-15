@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/genilton/Área de Trabalho/DIO.Series_CRUD/DIO.Series_CRUD.csproj": {}
+    "/home/genilton/Área de Trabalho/DIO.Series/DIO.Series.csproj": {}
   },
   "projects": {
-    "/home/genilton/Área de Trabalho/DIO.Series_CRUD/DIO.Series_CRUD.csproj": {
+    "/home/genilton/Área de Trabalho/DIO.Series/DIO.Series.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/genilton/Área de Trabalho/DIO.Series_CRUD/DIO.Series_CRUD.csproj",
-        "projectName": "DIO.Series_CRUD",
-        "projectPath": "/home/genilton/Área de Trabalho/DIO.Series_CRUD/DIO.Series_CRUD.csproj",
+        "projectUniqueName": "/home/genilton/Área de Trabalho/DIO.Series/DIO.Series.csproj",
+        "projectName": "DIO.Series",
+        "projectPath": "/home/genilton/Área de Trabalho/DIO.Series/DIO.Series.csproj",
         "packagesPath": "/home/genilton/.nuget/packages/",
-        "outputPath": "/home/genilton/Área de Trabalho/DIO.Series_CRUD/obj/",
+        "outputPath": "/home/genilton/Área de Trabalho/DIO.Series/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/genilton/.nuget/NuGet/NuGet.Config"
